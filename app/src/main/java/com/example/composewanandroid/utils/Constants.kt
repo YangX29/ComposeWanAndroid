@@ -8,5 +8,5 @@ object Constants {
     /**
      * 闪屏时间常量
      */
-    const val SPLASH_TIME = 2000L
+    const val SPLASH_TIME = 2*1000L
 }
